@@ -1,6 +1,6 @@
 # Welcome to Vector Database Cloud
 
-Welcome to the official GitHub organization for Vector Database Cloud! This is the central place for all our activities, beta program, community discussions, and contributions.
+Welcome to the official GitHub organization for Vector Database Cloud! This is the central place for all our open-source projects, beta test program, community discussions, and contributions.
 
 ## What We Offer
 
@@ -14,7 +14,7 @@ We encourage you to get involved with our community. Here are a few ways you can
 - **Request Features**: Have an idea for a new feature? [Request it here](https://github.com/VectorDBCloud/community/issues/new?template=feature_request.md).
 - **Join Discussions**: Engage with the community on our [Discussions page](https://github.com/VectorDBCloud/community/discussions).
 - **Beta Testing Program**: Interested in testing new features before they are released? Join our beta testing program:
-  - [Sign Up for Beta Testing](https://example.com/beta-signup)
+  - [Sign Up for Beta Test Program](https://tally.so/r/m6x0QB)
   - [Report Beta Issues](https://github.com/VectorDBCloud/community/issues/new?template=beta_bug_report.md)
   - [Provide Beta Feedback](https://github.com/VectorDBCloud/community/issues/new?template=beta_feedback.md)
 
