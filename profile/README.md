@@ -65,6 +65,8 @@ Explore our other repositories to find resources, examples, and tools related to
 - [Playbook](https://github.com/VectorDBCloud/Playbook): Test scenarios, implementation guides, and best practices.
 - [Community](https://github.com/VectorDBCloud/Community): Central hub for community interactions.
 - [Showcase](https://github.com/VectorDBCloud/Showcase): Highlights of innovative projects and use cases.
+- [Ingestion-Cookbooks](https://github.com/VectorDBCloud/Ingestion-Cookbooks): Recipes and guides for data ingestion into vector databases.
+- [Open-Source-Embedding-Cookbook](https://github.com/VectorDBCloud/Open-Source-Embedding-Cookbook): Collection of open-source embedding techniques and best practices.
 
 ## Roadmap
 View our project's roadmap [here](https://github.com/VectorDBCloud/Community/blob/main/ROADMAP.md) to see what we are currently working on and what is planned for the future.
