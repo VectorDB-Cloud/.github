@@ -1,6 +1,3 @@
-Certainly! I'll update the README.md file for the Vector Database Cloud organization profile according to the standard format we discussed earlier. Here's the updated version:
-
-```markdown
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg) ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 # Welcome to Vector Database Cloud
