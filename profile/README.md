@@ -1,5 +1,4 @@
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg) ![License](https://img.shields.io/badge/license-MIT-green.svg)
-
+![Version](https://img.shields.io/badge/version-1.0.0-blue.svg) ![License](https://img.shields.io/badge/license-CC%20BY%204.0-green.svg)
 # Welcome to Vector Database Cloud
 
 ## Table of Contents
@@ -12,7 +11,8 @@
 7. [Code of Conduct](#code-of-conduct)
 8. [Related Repositories](#related-repositories)
 9. [Roadmap](#roadmap)
-10. [Disclaimer](#disclaimer)
+10. [License](#license)
+11. [Disclaimer](#disclaimer)
 
 ## Introduction
 Welcome to the official GitHub organization for Vector Database Cloud! This is the central place for our open-source projects, beta test program, community discussions, bug reporting, feature requests, platform roadmap, contributions, and community engagement.
@@ -70,6 +70,28 @@ Explore our other repositories to find resources, examples, and tools related to
 
 ## Roadmap
 View our project's roadmap [here](https://github.com/VectorDBCloud/Community/blob/main/ROADMAP.md) to see what we are currently working on and what is planned for the future.
+
+
+## License
+
+This work is licensed under a Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+Copyright (c) 2024 VectorDBCloud
+
+You are free to:
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material for any purpose, even commercially
+
+Under the following terms:
+- Attribution — You must give appropriate credit to VectorDBCloud, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests VectorDBCloud endorses you or your use.
+
+Additionally, we require that any use of this guide includes visible attribution to VectorDBCloud. This attribution should be in the form of "Guide created by VectorDBCloud" or "Based on ETL integration guide by VectorDBCloud", along with a link to https://vectordbcloud.com, in any public-facing applications, documentation, or redistributions of this guide.
+
+No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+For the full license text, visit: https://creativecommons.org/licenses/by/4.0/legalcode
+
+
 
 ## Disclaimer
 The repositories, code snippets, tutorials, and other materials provided by Vector Database Cloud are examples and resources for our community. They may need adaptation for specific use cases and production environments. These materials are not guaranteed to work in all scenarios and should be thoroughly tested before use in any critical or production systems.
